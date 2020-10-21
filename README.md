@@ -2,7 +2,8 @@
 
 **About**
 
-Hi,my name is Chen.
+Hi, my name is Chen.
+
 I recently graduated from the Academic College of Tel Aviv-Yaffo with a Bachelor of Computer Science.
 
 🔭 I’m currently working on an app to help businesses comply with COVID regulations (https://github.com/chengo267/PurpleBadge.git ). 
